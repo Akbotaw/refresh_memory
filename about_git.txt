@@ -1,0 +1,6 @@
+git init -- реализация
+git config --global user.email "твой имейл"
+rm -rf .git  -разгигить
+git remote add origin ссылка удаленного  - привяжи локальный к удаленному
+git push -u origin master - синхронизация веток с удаленным и веткой мастер 
+git remote -v проверь что репозиторий действительно связались 
